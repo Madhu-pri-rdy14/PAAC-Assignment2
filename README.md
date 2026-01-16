@@ -1,6 +1,5 @@
-# Quantum State Tomography (Track 1)
 
-This project implements a **Transformer-based model** to reconstruct quantum density matrices from "Classical Shadow" measurement data. It was developed as part of the PAAC Open Project (Assignment 2).
+This project implements a **Transformer-based model** to reconstruct quantum density matrices from "Classical Shadow" measurement data. It was developed as part of the PAAC Open Project .
 
 ## 📂 Project Structure
 * **`src/`**: Source code for the model, training, and data generation.
